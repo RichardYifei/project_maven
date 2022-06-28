@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html-demo/html-demo.iml" filepath="$PROJECT_DIR$/html-demo/html-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java01/java01.iml" filepath="$PROJECT_DIR$/java01/java01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java02/java02.iml" filepath="$PROJECT_DIR$/java02/java02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moven-demo/moven-demo.iml" filepath="$PROJECT_DIR$/moven-demo/moven-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" filepath="$PROJECT_DIR$/mybatis-demo/mybatis-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-demo/tomcat-demo.iml" filepath="$PROJECT_DIR$/tomcat-demo/tomcat-demo.iml" />
+    </modules>
+  </component>
+</project>

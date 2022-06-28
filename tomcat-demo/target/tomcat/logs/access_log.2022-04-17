@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:11:24:36 +0800] "GET /tomcat-demo/req HTTP/1.1" 200 - http-bio-8080-exec-1 24
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:11:25:42 +0800] "GET /tomcat-demo/req1 HTTP/1.1" 404 983 http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:11:25:47 +0800] "GET /tomcat-demo/req1 HTTP/1.1" 404 983 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:11:25:47 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:11:26:05 +0800] "GET /tomcat-demo/req HTTP/1.1" 200 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:12:37:28 +0800] "GET /tomcat-demo/req.html HTTP/1.1" 404 991 http-bio-8080-exec-1 47
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:12:38:15 +0800] "GET /tomcat-demo/src/main/webapp/WEB-INF/req.html HTTP/1.1" 404 1039 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [17/Apr/2022:12:38:18 +0800] "GET /tomcat-demo/src/main/webapp/WEB-INF/req.html HTTP/1.1" 404 1039 http-bio-8080-exec-4 1
